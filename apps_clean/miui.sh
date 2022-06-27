@@ -6,13 +6,8 @@ cd $LOCALDIR
 systemdir=$1
 
 apps_dir="
-CameraTools
-Mipay
 MiuiBugReport
 Browser
-Calendar
-MiuiCamera
-MiuiGallery
 MiuiVideo
 Music
 QuickSearchBox
